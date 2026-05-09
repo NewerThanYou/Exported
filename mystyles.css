@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 100px;
+}
+
+button {
+    width: 200px;
+    height: auto;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
